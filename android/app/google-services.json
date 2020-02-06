@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "954184438755",
+    "firebase_url": "https://gazzabko-sales.firebaseio.com",
+    "project_id": "gazzabko-sales",
+    "storage_bucket": "gazzabko-sales.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954184438755:android:fc14ff6b0a862139f386d6",
+        "android_client_info": {
+          "package_name": "np.com.sijankhadka.gazaabko_sales_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954184438755-n7t94bhfd6bnc3u6a8l0o3uq0jekrhjk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "np.com.sijankhadka.gazaabko_sales_app",
+            "certificate_hash": "c537a3fb3868eca07cadf2bbff581f0f0a2f566d"
+          }
+        },
+        {
+          "client_id": "954184438755-mbf5q3ol0uorln2qm2ff6nm1geu9apr8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXyCDu-uQKchpHgKQZXRWdhdx1yg-RJwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "954184438755-mbf5q3ol0uorln2qm2ff6nm1geu9apr8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "954184438755-89gljg63qttdnsqmegjbnfod7ao008p5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "np.com.sijankhadka.gazaabkoSalesApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954184438755:android:f668a8f26aa3146af386d6",
+        "android_client_info": {
+          "package_name": "np.com.sijankhadka.gazzabko_admin_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954184438755-6hoe5fhq617tjjkkfgnk1nc07vbnr32c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "np.com.sijankhadka.gazzabko_admin_app",
+            "certificate_hash": "c537a3fb3868eca07cadf2bbff581f0f0a2f566d"
+          }
+        },
+        {
+          "client_id": "954184438755-mbf5q3ol0uorln2qm2ff6nm1geu9apr8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXyCDu-uQKchpHgKQZXRWdhdx1yg-RJwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "954184438755-mbf5q3ol0uorln2qm2ff6nm1geu9apr8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "954184438755-89gljg63qttdnsqmegjbnfod7ao008p5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "np.com.sijankhadka.gazaabkoSalesApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
